@@ -31,3 +31,7 @@ User Stories:
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+
+## Notes from the Author
+
+I designed this website desktop-first, so it's recommended to view the website on your laptop or desktop.
